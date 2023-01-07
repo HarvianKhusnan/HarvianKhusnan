@@ -1,4 +1,7 @@
-Hi there 👋 I'm Harvian Khusnan Hafidz
+<h1>
+  Hi there 👋 I'm Harvian Khusnan Hafidz
+</h1>
+
 
 
 - 🌱 I’m currently learning in Telkom University
