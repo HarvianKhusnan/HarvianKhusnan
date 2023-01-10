@@ -2,11 +2,12 @@
   Hi there 👋 I'm Harvian Khusnan Hafidz
 </h1>
 
-<h2>
-  - 🌱 I’m currently learning in Telkom University
-  - 📫 How to reach me: harvian7x@gmail.com
-  - ⚡ Fun fact: Patrict Is a Starfish
-</h2>
+
+
+- 🌱 I’m currently learning in Telkom University
+- 📫 How to reach me: harvian7x@gmail.com
+- ⚡ Fun fact: Patrict Is a Starfish
+
 
 
 Languages and Tools: 
@@ -19,4 +20,5 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" title = "C++" alt = "C++" width = "40" height = "40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/golang/golang-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
