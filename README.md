@@ -8,7 +8,8 @@
 - 📫 How to reach me: harvian7x@gmail.com
 - ⚡ Fun fact: Patrict Is a Starfish
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarvianKhusnan&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarvianKhusnan&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats
 
 Languages and Tools: 
 <div>
