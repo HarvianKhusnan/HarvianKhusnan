@@ -21,5 +21,5 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/isocpp/logos/blob/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" title = "C++" alt = "C++" width = "40" height = "40"/>&nbsp;
-  <img src="https://github.com/isocpp/logos/blob/64ef037049f87ac74875dbe72695e59118b52186/kotlin_logo.svg" title = "Kotlin" alt ="Kotlin" width "40" height ="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 </div>
